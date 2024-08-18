@@ -126,7 +126,7 @@ section {
 
 main {
     display: flex;
-    background: url('wallhaven-ex136k.jpg')no-repeat;
+    background: url('asset/wallhaven-ex136k.jpg')no-repeat;
     opacity: 1;
     background-size: cover;
     flex-direction: column;
